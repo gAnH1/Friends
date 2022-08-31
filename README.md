@@ -1,10 +1,10 @@
 # Friends List App
 
-Hello my name is John Elder and I work at Codemy.com
+Hello my name is Van Anh.
 
 This is my Ruby on Rails Friends List App!
 
-Follow me at Codemy.com
+Thank you!
 
 # Friends
 "# Friends" 
